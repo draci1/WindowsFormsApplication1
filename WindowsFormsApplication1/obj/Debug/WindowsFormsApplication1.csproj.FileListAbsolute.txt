@@ -1,0 +1,91 @@
+c:\users\ncomputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\ncomputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\ncomputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\ncomputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\ncomputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\ncomputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+c:\users\ncomputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\ncomputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\ncomputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\ncomputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\764.jpg
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\765.jpg
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\766.jpg
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\767.jpg
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\768.jpg
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\769.jpg
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\770.jpg
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\771.jpg
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\772.jpg
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\773.jpg
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\774.jpg
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\775.jpg
+C:\Users\NComputers\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\776.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\764.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\765.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\766.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\767.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\768.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\769.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\770.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\771.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\772.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\773.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\774.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\775.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\776.jpg
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form1.resources
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\NComputers\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Draci\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Draci\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Draci\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\764.jpg
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\765.jpg
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\766.jpg
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\767.jpg
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\768.jpg
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\769.jpg
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\770.jpg
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\771.jpg
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\772.jpg
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\773.jpg
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\774.jpg
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\775.jpg
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Sony Xperia\776.jpg
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form1.resources
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\OLD LAPTOP\Desktop\Desktop\ \WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
